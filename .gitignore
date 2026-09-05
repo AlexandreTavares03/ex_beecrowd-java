@@ -1,0 +1,22 @@
+# Arquivos compilados do Java
+*.class
+bin/
+out/
+target/
+
+# Configurações do Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Configurações do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Configurações do VS Code
+.vscode/
+
+# Configurações do NetBeans
+nbproject/
